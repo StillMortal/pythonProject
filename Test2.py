@@ -3,3 +3,4 @@ def func(a):
 
 
 b = func(5)
+c = 5
